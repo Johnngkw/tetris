@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-image: url(https://cdn.videvo.net/videvo_files/video/premium/video0061/thumbnails/4k0059_small.jpg);
+    margin:0;
+    padding:0;
+}
+#my-canvas {
+    background: #fff;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.outset {
+margin-top: 50px;
+background-color: #fff;
+border-style: outset;
+text-align: left;
+}
